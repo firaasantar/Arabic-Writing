@@ -21,6 +21,7 @@ After starting the server, open the `svgTest` file in your browser. On the left,
 
 ## Snapshots
 ![Snapshot of the feature in action](assets/hell2.png)
+![Snapshot of the feature in action](assets/example8.png)
 
 ## Acknowledgments
 This project was brought to me as a research assistant role and could not have been completed without the support of an amazing team. Special thanks to Dr. Amer Mouawad, my supervisor and mentor, who guided me throughout the project. Thanks also to Yara Khoury and Khajag Apelian, the digital design team that approached us to discuss how to solve this problem. Their insights and expertise were invaluable to the creation of the software.
