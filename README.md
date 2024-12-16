@@ -19,6 +19,8 @@ After starting the server, open the `svgTest` file in your browser. On the left,
   1. The word on a normal straight line.
   2. The word adjusted to the curve in two different ways.
 
+## Snapshots
+
 ## Acknowledgments
 This project was brought to me as a research assistant role and could not have been completed without the support of an amazing team. Special thanks to Dr. Amer Mouawad, my supervisor and mentor, who guided me throughout the project. Thanks also to Yara Khoury and Khajag Apelian, the digital design team that approached us to discuss how to solve this problem. Their insights and expertise were invaluable to the creation of the software.
 
